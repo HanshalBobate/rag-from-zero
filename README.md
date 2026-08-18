@@ -17,8 +17,9 @@ The goal is to understand **why it works, how it works, where it breaks, and how
 | Module | Topic                                          | Status       |
 | ------ | ---------------------------------------------- | ------------ |
 | M01    | RAG Foundations — Why LLMs Need Your Documents | 🟢 Completed |
-| M02    | M02: The RAG Pipeline -- Five Stages From Document to Answer | ⬜ Upcoming   |
+| M02    | M02: The RAG Pipeline -- Five Stages From Document to Answer | 🟢 Completed   |
 | M03    | M03: Vector Databases & Indexing -- Where Your Vectors Live | ⬜ Upcoming   |
+| M04    | M04: Chunking Strategy — Breaking Documents Without Breaking Meaning | ⬜ Upcoming   |
 | ...    | More to come                                   | :interne            |
 
 > This table will evolve as I progress through the material.
